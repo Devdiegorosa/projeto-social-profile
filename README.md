@@ -8,12 +8,6 @@ https://devdiegorosa.github.io/projeto-social-profile/
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of the project here)
-
----
-
 ## 🚀 Features
 
 - Responsive layout
